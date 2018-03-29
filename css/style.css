@@ -71,12 +71,12 @@ canvas {
 <style>
 /* unvisited link */
 a:link {
-    color: red;
+    color: black
 }
 
 /* visited link */
 a:visited {
-    color: green;
+    color: white
 }
 
 /* mouse over link */
@@ -86,6 +86,6 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: blue;
+    color: yellow
 }
 </style>
