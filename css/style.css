@@ -89,3 +89,5 @@ a:active {
     color: yellow
 }
 </style>
+
+.center { margin: 0 auto; width: 400px; }
