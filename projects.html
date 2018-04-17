@@ -41,8 +41,20 @@
         <rect width="90" height="90" stroke="green" stroke-width="3" fill="indianred" filter="url(#f1)" />
         Sorry, your browser does not support inline SVG.  
        </svg>
+       
+      <p>Canvas Tag Graphics</p>      
+          <!-- Assistance from W3schools Canvas section -->
+          <canvas id="myCanvas" width="400" height="100" style="border:3px solid #d3d3d3;">
+          Your browser does not support the HTML5 canvas tag.</canvas>
+          <script>
+            var c = document.getElementById("myCanvas");
+            var ctx = c.getContext("2d");
+            ctx.font = "300 px Arial";
+            ctx.textAlign = 'left';
+            ctx.strokeText("Zachary Smalley",10,50);
+          </script>     
             
-   <h1>JavaScript IPO</h1>
+   <h2>JavaScript IPO</h2>
  
       <p>Input:</p>
  
