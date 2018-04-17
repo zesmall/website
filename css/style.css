@@ -141,7 +141,7 @@ p {
     margin: 0 auto;
 }
 
-#header {
+.header {
     height: 75px;
     background: #FF6633;
     border-radius: 10px;
