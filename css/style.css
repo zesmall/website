@@ -34,6 +34,17 @@ p {
     margin: 5px;
 }
 
+img {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 5px solid rgba(0, 0, 0, 255.12);
+    border-radius: 50%;
+    display: block;
+    margin: 1.3em auto;
+    width: 300px;
+    height: 250px;
+}
+
 /* W3schools link color */
 <style>
 /* unvisited link */
