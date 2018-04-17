@@ -15,18 +15,18 @@ p {
     padding: 10px;
 }
 
-#wrapper {
+.wrapper {
     margin: 0 auto;
     width: 1000px;
 }
 
-#headerwrap {
+.headerwrap {
     width: 1000px;
     float: left;
     margin: 0 auto;
 }
 
-#header {
+.header {
     height: 75px;
     background: #FF6633;
     border-radius: 10px;
@@ -90,42 +90,24 @@ a:active {
     color: black;
 }
 
-#Aboutwrap {
-    width: 700px;
+.Education {
     float: left;
-    margin: 0 auto;
+    padding: 10px;
 }
 
-#About {
-    background: #FFFFFF;
-    border-radius: 10px;
-    border: 1px solid #ebebeb;
-    margin: 5px;
+/* Left and right column */
+.column.side {
+    width: 25%;
 }
 
-#Education {
-    width: 150px;
-    float: left;
-    margin: 0 auto;
+/* Middle column */
+.About {
+    width: 50%;
 }
 
-#Education {
-    background: #33CCFF;
-    border-radius: 10px;
-    border: 1px solid #1fb8eb;
-    margin: 5px;
-}
-
-#rightcolumnwrap {
-    width: 150px;
-    float: left;
-    margin: 0 auto;
-}
-
-#rightcolumn {
-    background: #33CCFF;
-    border-radius: 10px;
-    border: 1px solid #1fb8eb;
-    margin: 5px;
-}
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 
