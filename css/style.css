@@ -103,13 +103,13 @@ a:active {
     margin: 5px;
 }
 
-#Education/Trainingcolumnwrap {
+#Education {
     width: 150px;
     float: left;
     margin: 0 auto;
 }
 
-#Education/Trainingcolumn {
+#Education {
     background: #33CCFF;
     border-radius: 10px;
     border: 1px solid #1fb8eb;
