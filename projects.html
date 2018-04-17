@@ -18,17 +18,22 @@
       <a href="//zesmall.github.io/website/resume.html">Resume</a>
     </div> 
        
+  </header>     
+       
+  <object data="Fields Report.pdf" type="website/Fields Report.pdf" width="100%" height="100%">
+  </object>
+       
+   <div id="FieldsReport">  
+        
+     <h3>Computer Science Fields Report</h3>
        <object data="Fields Report.pdf" type="website/Fields Report.pdf" width="100%" height="100%">
        </object>
-       
-       <div id="Projects">        
-        <h2>HTML/CSS</h2>
-     <p>
-         <a href="https://scratch.mit.edu/users/zesmall/">Scratch</a> 
-     </p> 
-       
+   </div>     
+        
+   <div id="HTML/CSS">   
+     <h3>HTML/CSS</h3>
+     <p><a href="https://scratch.mit.edu/users/zesmall/">Scratch</a></p> 
      <p>My first inline SVG!</p>
-
        <svg height="110" width="110">
         <defs>
        <filter id="f1" x="0" y="0">
@@ -40,18 +45,20 @@
        </svg>
        
       <p>Canvas Tag Graphics</p>      
-          <!-- Assistance from W3schools Canvas section -->
-          <canvas id="myCanvas" width="400" height="100" style="border:3px solid #d3d3d3;">
-          Your browser does not support the HTML5 canvas tag.</canvas>
-          <script>
+        <!-- Assistance from W3schools Canvas section -->
+        <canvas id="myCanvas" width="400" height="100" style="border:3px solid #d3d3d3;">
+        Your browser does not support the HTML5 canvas tag.</canvas>
+        <script>
             var c = document.getElementById("myCanvas");
             var ctx = c.getContext("2d");
             ctx.font = "300 px Arial";
             ctx.textAlign = 'left';
             ctx.strokeText("Zachary Smalley",10,50);
-          </script>     
-            
-   <h2>JavaScript IPO</h2>
+        </script>  
+    </div>   
+    
+    <div id="JavaScript">  
+      <h3>JavaScript IPO</h3>
  
       <p>Input:</p>
  
@@ -63,20 +70,20 @@
       <p id="out"></p>
  
       <script>
-    function myFunction() {
-      var num1, num2, outVar;
+        function myFunction() {
+        var num1, num2, outVar;
  
-      // Input
-      num1 = parseInt(document.getElementById("in1").value);
-      num2 = parseInt(document.getElementById("in2").value);
+        // Input
+        num1 = parseInt(document.getElementById("in1").value);
+        num2 = parseInt(document.getElementById("in2").value);
    
-      // Processing
-     sum = num1 + num2;
+        // Processing
+        sum = num1 + num2;
  
-      // Output
-    document.getElementById("out").innerHTML = sum;
-}
-</script>            
-    
-
- </body>    
+        // Output
+        document.getElementById("out").innerHTML = sum;
+        }
+      </script>
+    </div>      
+</body>    
+</html>
