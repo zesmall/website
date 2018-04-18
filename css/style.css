@@ -104,13 +104,13 @@ a:active {
 }
 
 #HTML/CSS {
-    width: 50%; 
+    width: 45%; 
     border: 1px solid black; 
     float: left;
 }
 
 #JavaScript {
-    width: 50%;
+    width: 45%;
     border: 1px solid black; 
     float: left;
 }
