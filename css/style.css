@@ -103,6 +103,17 @@ a:active {
     float: left;
 }
 
+#HTML/CSS {
+    width: 50%; 
+    border: 1px solid black; 
+    float: left;
+}
+
+#JavaScript {
+    width: 50%;
+    border: 1px solid black; 
+    float: left;
+}
 /* Clear floats after the columns */
 .row:after {
     content: "";
