@@ -95,14 +95,12 @@ a:active {
     width: 49%; 
     border: 1px solid black; 
     float: left;
-    padding: 10px;
 }
 
 #About {
     width: 49%; 
     border: 1px solid black; 
     float: left;
-    padding: 10px;
 }
 
 /* Clear floats after the columns */
