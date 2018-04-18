@@ -92,13 +92,13 @@ a:active {
 }
 
 #Education {
-    width: 49%; 
+    width: 45%; 
     border: 1px solid black; 
     float: left;
 }
 
 #About {
-    width: 49%; 
+    width: 45%; 
     border: 1px solid black; 
     float: left;
 }
