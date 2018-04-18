@@ -17,11 +17,11 @@ p {
 
 .wrapper {
     margin: 0 auto;
-    width: 1000px;
+    width: 700px;
 }
 
 .headerwrap {
-    width: 1000px;
+    width: 700px;
     float: center;
     margin: 0 auto;
 }
@@ -96,12 +96,14 @@ a:active {
     border: 1px solid black; 
     float: left;
     padding: 10px;
+    height: 400px;
 }
 
 #About {
     width: 45%; 
     border: 1px solid black; 
     float: left;
+    height: 400px;
 }
 
 /* Clear floats after the columns */
