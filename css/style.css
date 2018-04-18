@@ -95,24 +95,28 @@ a:active {
     width: 45%; 
     border: 1px solid black; 
     float: left;
+    text-align: center;
 }
 
 #About {
     width: 45%; 
     border: 1px solid black; 
     float: left;
+    text-align: center;
 }
 
 #examples {
     width: 45%; 
     border: 1px solid black; 
     float: left;
+    text-align: center;
 }
 
 #JavaScript {
     width: 45%;
     border: 1px solid black; 
     float: left;
+    text-align: center;
 }
 /* Clear floats after the columns */
 .row:after {
