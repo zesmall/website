@@ -91,19 +91,19 @@ a:active {
     color: black;
 }
 
-.Education {
-    float: left;
+#Education {
+    width: 300px; 
+    border: 1px solid black; 
+    float: right;
     padding: 10px;
 }
 
-/* Left and right column */
-.column.side {
-    width: 25%;
-}
 
 /* Middle column */
-.About {
-    width: 50%;
+#About {
+    width: 300px; 
+    border: 1px solid black; 
+    float: left
 }
 
 /* Clear floats after the columns */
