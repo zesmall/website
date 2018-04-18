@@ -92,18 +92,16 @@ a:active {
 }
 
 #Education {
-    width: 45%; 
+    width: 50%; 
     border: 1px solid black; 
     float: left;
     padding: 10px;
-    height: 400px;
 }
 
 #About {
-    width: 45%; 
+    width: 50%; 
     border: 1px solid black; 
     float: left;
-    height: 400px;
 }
 
 /* Clear floats after the columns */
