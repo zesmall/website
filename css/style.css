@@ -120,3 +120,8 @@ a:active {
     text-align: center;
 }    
 
+#footer-wrap {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
