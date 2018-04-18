@@ -110,7 +110,7 @@ a:active {
     display: table;
     clear: both;
     
- .footer {
+#footer {
     position: absolute;
     right: 0;
     bottom: 0;
