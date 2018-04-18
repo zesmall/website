@@ -91,15 +91,15 @@ a:active {
     color: black;
 }
 
-#Education {
-    width: 40%; 
+div.Education {
+    width: 45%; 
     border: 1px solid black; 
-    float: right;
+    float: left;
     padding: 10px;
 }
 
-#About {
-    width: 40%; 
+div.About {
+    width: 45%; 
     border: 1px solid black; 
     float: left;
 }
