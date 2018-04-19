@@ -92,28 +92,28 @@ a:active {
 }
 
 #Education {
-    width: 45%; 
+    width: 50%; 
     border: 1px solid black; 
     float: left;
     text-align: center;
 }
 
 #About {
-    width: 45%; 
+    width: 50%; 
     border: 1px solid black; 
     float: left;
     text-align: center;
 }
 
 #examples {
-    width: 45%; 
+    width: 50%; 
     border: 1px solid black; 
     float: left;
     text-align: center;
 }
 
 #JavaScript {
-    width: 45%;
+    width: 50%;
     border: 1px solid black; 
     float: left;
     text-align: center;
