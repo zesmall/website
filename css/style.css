@@ -135,3 +135,7 @@ a:active {
   margin: 0 auto;
   width: fixed;
 }   
+    
+.FieldsReport {
+    text-align: center;
+}    
