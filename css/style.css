@@ -135,9 +135,10 @@ a:active {
   margin: 0 auto;
   width: fixed;
 }   
-
-#fieldsReport {
-    align: center;
-}    
     
+ #fieldsReport {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}    
 
