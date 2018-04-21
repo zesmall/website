@@ -35,7 +35,7 @@ p {
     text-align: center;
 }
 
-img {
+image1 {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
     border: 5px solid rgba(0, 0, 0, 255.12);
@@ -45,6 +45,18 @@ img {
     width: 300px;
     height: 250px;
 }
+
+image2 {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 5px solid rgba(0, 0, 0, 255.12);
+    display: block;
+    margin: 1.3em auto;
+    width: 300px;
+    height: 250px;
+}
+
+
 
 <style>
 
