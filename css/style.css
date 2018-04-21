@@ -56,7 +56,6 @@ a:link {
 a:visited {
     color: white
 }
-
 /* mouse over link */
 a:hover {
     color: hotpink;
@@ -124,7 +123,7 @@ a:active {
     clear: both;
 }
 
-.footer {
+#footer {
   position: absolute;
   right: 0;
   bottom: 0;
