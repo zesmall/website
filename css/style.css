@@ -37,8 +37,8 @@ p {
 #image1 {
     border: 5px solid rgba(0, 0, 0, 255.12);
     display: block;
-    height: 200px;
-    width: 200px;
+    height: 400px;
+    width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -51,8 +51,8 @@ p {
     border: 5px solid rgba(0, 0, 0, 255.12);
     display: block;
     margin: 1.3em auto;
-    width: 300px;
-    height: 250px;
+    width: 200px;
+    height: 180px;
 }
 
 
