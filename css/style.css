@@ -23,7 +23,6 @@ p {
 
 .headerwrap {
     width: 700px;
-    float: center;
     margin: 0 auto;
 }
 
@@ -47,9 +46,8 @@ img {
     height: 250px;
 }
 
-/* W3schools help for page layout and navigation design */
 <style>
-/* unvisited link */
+
 a:link {
     color: black
 }
@@ -124,7 +122,8 @@ a:active {
     content: "";
     display: table;
     clear: both;
-    
+}
+
 .footer {
   position: absolute;
   right: 0;
@@ -132,9 +131,6 @@ a:active {
   left: 0;
   padding: 1rem;
   background-color: #efefef;
-  text-align: center;
-  margin: 0 auto;
-  width: fixed;
 }   
     
  #fieldsReport {
