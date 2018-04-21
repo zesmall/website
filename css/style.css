@@ -34,7 +34,7 @@ p {
     text-align: center;
 }
 
-image1 {
+#image1 {
     border: 5px solid rgba(0, 0, 0, 255.12);
     display: block;
     height: 200px;
@@ -45,7 +45,7 @@ image1 {
     max-width: 100%;
 }
 
-image2 {
+#image2 {
     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
     border: 5px solid rgba(0, 0, 0, 255.12);
