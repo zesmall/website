@@ -28,7 +28,7 @@ p {
 #header {
     height: 75px;
     border-radius: 10px;
-    border: 1px solid #eb521f;
+    border: 1px solid;
     margin: 5px;
     text-align: center;
 }
