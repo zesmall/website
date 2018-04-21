@@ -16,16 +16,16 @@ p {
     padding: 10px;
 }
 
-.wrapper {
+#wrapper {
     margin: 0 auto;
     width: 700px;
 }
-.headerwrap {
+#headerwrap {
     width: 700px;
     margin: 0 auto;
 }
 
-.header {
+#header {
     height: 75px;
     background: #FF6633;
     border-radius: 10px;
