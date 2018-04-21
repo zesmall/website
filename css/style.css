@@ -40,7 +40,7 @@ image1 {
     border: 5px solid rgba(0, 0, 0, 255.12);
     border-radius: 50%;
     display: block;
-    margin: 1.3em auto;
+    margin: auto;
     width: 200px;
     height: 200px;
 }
