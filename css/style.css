@@ -101,14 +101,14 @@ a:active {
     width: 48%; 
     border: 1px solid black; 
     float: left;
-    text-align: center;
+    text-align: left;
 }
 
 #About {
     width: 48%; 
     border: 1px solid black; 
     float: left;
-    text-align: center;
+    text-align: left;
 }
 
 #examples {
